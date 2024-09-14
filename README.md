@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Quantuva ERC20 Token
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+### Контракт: 0x71119af6CCb63A009D1533b5961e5E22096095aA
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+### Сеть: Sepolia Testnet
